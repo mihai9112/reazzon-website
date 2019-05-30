@@ -93,6 +93,8 @@ video {
 }
 
 iframe {
+  display: block;
+  position: relative;
   border: 0;
 }
 
