@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Reazzon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 21 May 2019 10:01:15 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 10:01:15 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>balance</title>
+      <link>/tags/balance/</link>
+      <pubDate>Fri, 21 Jun 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/tags/balance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strength</title>
+      <link>/tags/strength/</link>
+      <pubDate>Fri, 21 Jun 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/tags/strength/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>talk</title>
+      <link>/tags/talk/</link>
+      <pubDate>Fri, 21 Jun 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/tags/talk/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>diversity</title>
@@ -26,15 +53,6 @@
       <pubDate>Tue, 21 May 2019 10:01:15 +0100</pubDate>
       
       <guid>/tags/inclusion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>talk</title>
-      <link>/tags/talk/</link>
-      <pubDate>Tue, 21 May 2019 10:01:15 +0100</pubDate>
-      
-      <guid>/tags/talk/</guid>
       <description></description>
     </item>
     
