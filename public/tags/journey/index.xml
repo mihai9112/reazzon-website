@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>journey on Reazzon</title>
+    <link>/tags/journey/</link>
+    <description>Recent content in journey on Reazzon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 17 Jul 2019 10:01:15 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/journey/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>On a journey to find my balance</title>
+      <link>/posts/findmybalance/</link>
+      <pubDate>Wed, 17 Jul 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/posts/findmybalance/</guid>
+      <description>In the last couple of weeks I have constantly had that feeling of frustrastion coming from doing what I need vs doing what I want. I enjoy the fulfilment of completing the most important task for that day, or reaching the end of a project, or simply just cutting a task off my To Do list. But I equally enjoy (maybe even more) the happiness of doing something for myself, for my soul.</description>
+    </item>
+    
+  </channel>
+</rss>
