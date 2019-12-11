@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Reazzon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Aug 2019 10:01:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2019 10:01:15 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>balance</title>
+      <link>/tags/balance/</link>
+      <pubDate>Wed, 11 Dec 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/tags/balance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>journey</title>
+      <link>/tags/journey/</link>
+      <pubDate>Wed, 11 Dec 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/tags/journey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>strength</title>
+      <link>/tags/strength/</link>
+      <pubDate>Wed, 11 Dec 2019 10:01:15 +0100</pubDate>
+      
+      <guid>/tags/strength/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>30-days-challenge</title>
@@ -53,33 +80,6 @@
       <pubDate>Thu, 01 Aug 2019 10:01:15 +0100</pubDate>
       
       <guid>/tags/yoga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>balance</title>
-      <link>/tags/balance/</link>
-      <pubDate>Wed, 17 Jul 2019 10:01:15 +0100</pubDate>
-      
-      <guid>/tags/balance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>journey</title>
-      <link>/tags/journey/</link>
-      <pubDate>Wed, 17 Jul 2019 10:01:15 +0100</pubDate>
-      
-      <guid>/tags/journey/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>strength</title>
-      <link>/tags/strength/</link>
-      <pubDate>Wed, 17 Jul 2019 10:01:15 +0100</pubDate>
-      
-      <guid>/tags/strength/</guid>
       <description></description>
     </item>
     
