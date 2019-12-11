@@ -2,7 +2,7 @@
 description = ""
 date = "2019-07-17T10:01:15+01:00"
 title = "On a journey to find my balance"
-tags = ["balance","strength", "talk"]
+tags = ["balance","strength", "talk", "journey"]
 categories = ["reazzon"]
 draft = false
 type = "post"
